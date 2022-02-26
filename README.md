@@ -1,2 +1,2 @@
 # machine-learning
-Everything related to ml I am working with
+Everything related to ml/cv I am working with
