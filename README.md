@@ -1,9 +1,11 @@
 # machine-learning
 
+See also my [ML document library](https://kis-balazs.github.io/ml-docs/).
+
 ml/dl/cv resources used by me in:
   - kaggle competitions;
-  - research
-  - teaching purposes
+  - research;
+  - teaching purposes;
   - ...
 
 ---
