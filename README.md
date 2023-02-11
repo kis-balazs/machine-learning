@@ -2,7 +2,8 @@
 
 See also my [ML document library](https://kis-balazs.github.io/ml-docs/).
 
-Public ml/dl/cv resources used by me in:
+Public ml/dl/cv resources used and created by me:
+  - publications;
   - kaggle competitions;
   - research;
   - teaching purposes;
